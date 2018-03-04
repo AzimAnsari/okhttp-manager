@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OkhttpMaster</string>
+    <string name="get">GET</string>
+</resources>
